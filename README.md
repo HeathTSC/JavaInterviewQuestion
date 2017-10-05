@@ -1,4 +1,2 @@
 # Java Interview Question Source Code 
-This source code is intended to be used to answer questions on the Java section of the questionairre form.
-
-Please download the project and follow instructions on the questionairre form.
+There are five java source file to download.  Complete the three methods (productSort,totalCostProducts and totalCostEightRound) located in the ProductMain Class.  Then compile and run the java app to answer the questions on the form.
